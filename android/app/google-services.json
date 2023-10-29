@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "536202533211",
+    "project_id": "technicaltalent-49749",
+    "storage_bucket": "technicaltalent-49749.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536202533211:android:b56a97a434e23067fe227e",
+        "android_client_info": {
+          "package_name": "com.example.firebase_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536202533211-p7eosvebtcf7a7mg5msqot1u5bfje1gq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4H4_Ec5FX3xPkPw3MmMjjoHE9oX6FaeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536202533211-p7eosvebtcf7a7mg5msqot1u5bfje1gq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "536202533211-7cha2od8i1s8fck9aj2ja6h6di0ls8gl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
