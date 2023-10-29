@@ -1,6 +1,6 @@
 # Chat Application in Firebase Sample
 
-<div float="right">
+<div float="left">
   <img src="assets/1.jpg" width="40%"  style="display:inline;"/>
   <img src="assets/2.jpg" width="40%" style="display:inline;" />
 </div>
